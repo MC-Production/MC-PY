@@ -1,5 +1,7 @@
 # Dos_Script PYTHON 
 
+#Yazan Muhammet Eroğlu
+
 ## Programı Oluşturan: [MC-TEAM](https://www.github.com/mc-py)
 
 ![Yazıldığı Dil Python](https://img.shields.io/badge/Dil-Python-blue.svg "Yazıldığı Dil Python")
