@@ -1,6 +1,6 @@
 # Dos_Script PYTHON 
 
-#Yazan Muhammet Eroğlu
+# Yazan Muhammet EROĞLU
 
 ## Programı Oluşturan: [MC-TEAM](https://www.github.com/mc-py)
 
