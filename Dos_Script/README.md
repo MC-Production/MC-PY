@@ -13,5 +13,5 @@ Bu Script Dos Saldırıları için Yazılmıştır SAldırı Yaparken Sizin Ip A
 * Kullanmak için gerekli komutlar aşşağıdaki gibidir.
 * Programı Çalıştırmak İçin  : `$ python Dos_Scriptv2.py` 
 * Örnek kullanım Aşağıdaki gibidir 
-`$ python Dos_Scriptv2.py -s [Hedef Sunucu İp Aderesi] -p [Hedef Port] -t [Oluşturulacak Botların Sayısı] `
+* `$ python Dos_Scriptv2.py -s [Hedef Sunucu İp Aderesi] -p [Hedef Port] -t [Oluşturulacak Botların Sayısı] `
 
