@@ -2191,8 +2191,4 @@ istilacı               1.4               WPA / WPA2 parolalarını kurtarmak i�
 * __zzuf 0.13__ Şeffaf uygulama giriş fuzzer. http://sam.zoy.org/zzuf/                                         
 
 
-
-
-Orijinal İngilizce metin:
-# Hacking Tools List
- Daha iyi bir çeviri ile katkıda bulunun
+### Okuyan Herkese Teşekkürler 
