@@ -1,6 +1,6 @@
    ##########################################################################################################
    #                                                                                                        #       
-   #             Bu Python Programı Barbaros Anadolu Lisesi Adına Geliştirilmiştir                          #
+   #                        Bu Python Scripti MC-Team Adına Geliştirilmiştir                                #
    #  Yapılma Amacı Pi Sayısında Aranan Sayı Değerini Kaçıncı Basamakta İtibaren Başladığını Tespit Etmek   #
    #             Program GPL2 Lisanslıdır Ticari Amaçlar Dahil Kullanılabilir                               #
    #                                                                                                        #                           
@@ -55,7 +55,7 @@ print("""
  ░      ░   ░                ░         ░    ░   ▒   ░      ░   
         ░   ░ ░                        ░  ░     ░  ░       ░   
             ░                                                   """)
-print(" MC-TEAM Tarafından Yapılıp Geliştirilmiştir. ")
+print(" MC-TEAM Tarafından Oluşturulup Geliştirilmiştir. ")
 print("")
 
 data = dosya.read()
